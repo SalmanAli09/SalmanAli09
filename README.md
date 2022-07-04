@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/salmanimran__/)
 
 
-## Glad to see you here! &nbsp;
+## I'm happy to see you here.! &nbsp;
 
 I'm a currently studying Web And Mobile Hybrid Application Development Course 🎓 from SMIT 🏛. I'm an enthusiastic learner who is constantly eager to experiment with new technologies and work in various fields 💡 I enjoy learning about new technology and using them to address pressing issues ✨ In addition, I enjoy mentoring and guiding beginners 👨🏻‍💻 Currently, I work in web development.
 
@@ -15,9 +15,9 @@ Joined Github **2** years ago 🥳
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 💻 &nbsp; I enjoy learning new tech stacks and creating cool things..
+- 📰 &nbsp; Learning New and latest tech when possible.
+- 👩‍💻 &nbsp; Always working on my projects .
 
 <hr />
 
